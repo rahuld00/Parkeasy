@@ -1,0 +1,6 @@
+"IncidentID";"ResolutionStatus";"Date_Time";"Description";"MemberID"
+2001;"Resolved";"2023-04-10 10:30:00";"Network connectivity issue";1001
+2002;"Pending";"2023-04-12 14:15:00";"Software installation problem";1003
+2003;"Resolved";"2023-04-15 11:45:00";"Printer malfunction";1005
+2004;"Pending";"2023-04-18 09:20:00";"Password reset request";1007
+2005;"Resolved";"2023-04-20 16:00:00";"Hardware replacement needed";1009
